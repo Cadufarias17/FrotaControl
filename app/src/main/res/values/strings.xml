@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FrotaControlFINAL</string>
+    <string name="title_activity_veiculo_list">VeiculoListActivity</string>
+</resources>
